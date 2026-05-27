@@ -7,9 +7,14 @@ BNO055
 ## I
 I2C
 - [bno_intro.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/sensors/bno_intro.ino)
+If, else if, else
+- [you_have_ten_seconds.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/you_have_ten_seconds.ino)
 ## L
 LED
 - [rgb_blink.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/rgb_blink.ino)
+## M
+millis
+- [you_have_ten_seconds.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/you_have_ten_seconds.ino)
 ## P
 Pointer 
 - [intro_to_pointers.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/intro_to_pointers.ino)
@@ -19,3 +24,5 @@ RGB
 ## S
 Struct
 - [how_to_struct.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/how_to_struct.ino)
+Switch case
+- [hello_switch_case.ino](https://github.com/frstray/FR_Arduino_Reference/blob/main/Basic_Arduino_Concepts/hello_switch_case.ino)
